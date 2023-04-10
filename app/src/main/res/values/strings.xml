@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+
+        <item>AC/DC</item>
+        <item>Coldplay</item>
+        <item>Green Day</item>
+
+        <item>Guns N’ Roses</item>
+        <item>Dixie Chicks</item>
+        <item>The Rolling Stones</item>
+
+        <item>The Turtles</item>
+        <item>Spice Girls</item>
+        <item>Imagine Dragons</item>
+
+        <item>Earth, Wind and Fire</item>
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+
+        <item>An Australian heavy metal band whose theatrical high-energy shows placed them among the most popular stadium performers of the 1980s.</item>
+        <item>Coldplay, British rock group whose melodic piano-driven anthems lifted it to the top of the pop music world in the early 21st century.</item>
+        <item>Green Day, American rock band that infused the raw power of punk with a melodic pop sensibility and lyrics that captured the angst-ridden restlessness of American teenagers at the end of the 20th century and into the 21st. </item>
+
+        <item>An American band that invigorated late 1980s heavy metal music with its raw energy.</item>
+        <item>An American country music group that achieved crossover success in the pop market. </item>
+        <item>A British rock group, formed in 1962, that drew on Chicago blues stylings to create a unique vision of the dark side of post-1960s counterculture.</item>
+
+        <item>An American band popular in the mid-1960s that specialized in vocally rich, craftily arranged pop music.</item>
+        <item>A British pop group whose infectious dance songs dominated the global charts in the late 1990s.</item>
+        <item>An alternative-rock band from Las Vegas, Nevada.</item>
+
+        <item>Earth, Wind and Fire, American pop, soul, and jazz-fusion band that became one of the best-selling and most influential groups of the 1970s. </item>
+    </string-array>
+</resources>
